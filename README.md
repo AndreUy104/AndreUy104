@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Aspiring Software Engineer | Code Creator | Problem Solver<br>🌐 My interests span a wide range, from web development to artificial intelligence. I love diving into challenges, breaking them down, and crafting elegant solutions. <br>🌟 Let's connect, collaborate, and code! Together, let's build a future where technology empowers and connects us all. 🚀</p>
+<p align="left">💻 Aspiring Software Engineer | Web Developer | Problem Solver<br>🌐 My interests span a wide range, from web development to artificial intelligence. I love diving into challenges, breaking them down, and crafting elegant solutions. <br>🌟 Let's connect, collaborate, and code! Together, let's build a future where technology empowers and connects us all. 🚀</p>
 
 ###
 
