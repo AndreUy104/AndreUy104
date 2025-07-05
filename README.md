@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello World! I'm Andre Uy, a passionate 22-year-old Computer Science enthusiast currently in my 4th year of BS in Computer Science. 🎓</p>
+<p align="left">👋 Hello World! I'm Andre Uy, a passionate 23-year-old Computer Science enthusiast!🎓</p>
 
 ###
 
